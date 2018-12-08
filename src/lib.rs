@@ -30,7 +30,7 @@ mod test_helpers;
 
 #[macro_use]
 mod error;
-pub mod async;
+pub mod asynchronous;
 mod version;
 
 mod context;
